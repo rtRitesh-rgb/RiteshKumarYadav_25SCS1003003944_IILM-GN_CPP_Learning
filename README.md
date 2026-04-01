@@ -1,2 +1,16 @@
 # RiteshKumarYadav_25SCS1003003944_IILM-GN_CPP_Learning
-A repository dedicated to learning C++ programming, covering fundamental concepts such as syntax, control structures, functions, arrays, and object-oriented programming. It includes practice programs to build a strong coding foundation.
+# 💻 C++ Learning
+
+This repository contains C++ programs for learning and practicing fundamental to intermediate concepts, including object-oriented programming.
+
+## 🛠️ Topics Covered
+* Basics & Syntax
+* Control Structures
+* Functions
+* Arrays & Strings
+* OOP Concepts
+
+## 👨‍💻 Author
+Ritesh Yadav
+B.Tech CSE | IILM Greater Noida
+
